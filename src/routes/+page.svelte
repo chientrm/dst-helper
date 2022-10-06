@@ -1,2 +1,2 @@
-<h1>DST Speedrun calculator</h1>
+<h1>Speedrun calculator</h1>
 <p>Welcome</p>
